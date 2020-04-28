@@ -1,0 +1,4 @@
+com/example/covid19tracker/Covid19TrackerApplication.class
+com/example/covid19tracker/Controller/Homecontroller.class
+com/example/covid19tracker/models/LocationStats.class
+com/example/covid19tracker/services/CoronaVirusDataService.class
